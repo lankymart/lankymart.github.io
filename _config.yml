@@ -11,6 +11,7 @@ url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
 highlighter:         pygments
+encoding:            utf-8
 
 # Assets
 #
